@@ -2,8 +2,6 @@
 
 A fun and classic **Timber-style arcade game** built using **C++** and **SFML (Simple and Fast Multimedia Library)**. Chop wood, dodge branches, and race against the clock to beat your high score!
 
-![Timber Game Screenshot](https://github.com/Pritish-Pradhan/Timber/raw/main/assets/screenshot.png)
-
 ---
 
 ## 🎮 Features
